@@ -8,3 +8,17 @@ Quick Overview
 ### 🚀 Interactive: Live camera feed with instant outfit recommendations
 
 ### Built with Python, OpenCV, MediaPipe for intelligent fashion recommendations.
+
+## 📂 Project Structure
+
+Virtual-Wardrobe/
+│
+├── Resources/           # Contains images and assets
+│   └── Shirts/          # PNG images of shirts (transparent background)
+│
+├── templates/
+│   └── index.html       # The Frontend Web Interface
+│
+├── app.py               # Main Flask Application
+├── README.md            # Project Documentation
+└── requirements.txt     # List of dependencies
