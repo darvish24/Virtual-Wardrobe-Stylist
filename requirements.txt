@@ -1,0 +1,4 @@
+Flask
+opencv-python
+cvzone
+mediapipe
