@@ -11,6 +11,7 @@ Quick Overview
 
 ## 📂 Project Structure
 
+```text
 Virtual-Wardrobe/
 │
 ├── Resources/           # Contains images and assets
